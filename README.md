@@ -1,1 +1,2 @@
 # Analysing-Visualizing-Data-Project
+This project focuses on analyzing Twitter trends to uncover valuable insights into public sentiment, engagement patterns, and emerging topics. By examining trending hashtags, keywords, and user interactions, the project aims to identify how trends evolve, the role of influencers in amplifying discussions, and regional variations in trending topics. The findings will provide a deeper understanding of how social media shapes communication and influences societal behaviors.
